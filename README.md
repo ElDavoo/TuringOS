@@ -1,6 +1,6 @@
 # Tante macchine di turing
 
-"Sometimes I lose myself, but I try to find it"
+"Sometimes I lose myself, but I try to find it" G.P. 12/11/2020
 
 ## fatte
 
