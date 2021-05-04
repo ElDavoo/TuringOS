@@ -1,2 +1,5 @@
-Le macchine qui presenti hanno qualche piccola mancanza, in particolare sull'addizione.
+Le macchine qui presenti potrebbero avere qualche piccola mancanza, in particolare sull'addizione.
 I pezzi sono stati completati, quindi utilizzare quelli e riassemblarle.
+
+!A-B! in realtà sarebbe |A-B| (valore assoluto), chiamata da Pani anche "sottrazione chiusa"
+
