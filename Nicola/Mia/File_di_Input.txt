@@ -1,0 +1,5 @@
+Test di input
+
+
+input1: #10a010c0r$10b0110a0r#110a0110b0r$110c0110a0r#
+input2: abac

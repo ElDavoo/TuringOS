@@ -1,0 +1,57 @@
+La codifica che ho utilizzato per la macchina di Turing è la seguente:
+
+- L'insieme dei caratteri utilizzati in input sono: a,b,c
+- Ho deciso di utilizzare lo 0 come separatore delle varie componenti della stringa.
+- Il ~ indica che può esserci qualsiasi carattere.
+- Gli spostamenti della testina sono stati codificati con i simboli "r,l", r=destra, l=sinistra.
+- Per gli stati q1,q2...,qn saranno scritti come 1,11,....1=n.
+- Per separare le transizioni che partono da uno stesso stato
+  ma con un input differente utilizzo il simblolo "$".
+- Il simobolo # ho deciso di utilizzarlo come simbolo iniziale e finale della codifica.
+
+Segue un esempio di codifica:
+#10a010c0r$10b0110a0r#110a0110b0r$110c0110a0r#;
+
+Di seguito invece è spiegata la logica di funzionamento della Macchina di Turing:
+
+1) All'inizio viene copiata sul terzo nastro la parte compresa tra il primo e il secondo #.
+
+2) Successivamente ho riposizionato le testine del primo e del terzo nastro all'inizio, 
+   facendo questo in maniera separata.
+   -La testina del primo nastro sarà ferma sul primo #.
+
+3) Dopodichè la macchina legge tutti gli 1 che ci sono e salta lo zero (questo avviene tra 
+   gli stati stati q4 e q5).
+   
+4) In q6 invece, viene controllato che il carattere del secondo nastro sia uguale a quello
+   puntato nel terzo nastro:
+   - Se sono diversi salto la transizione e ripeto il punto 3.
+   - Altrimenti l'esecuzione prosegue.
+
+5) Con l'utizzo sempre del terzo nastro salto lo zero separatore e il primo 1
+   (ovvero il primo stato).
+
+6) Se viene letto un altro 1 la testina del primo nastro si sposta sul successivo #:
+   - Se invece incontro altri 1 ripeto il punto 6).
+
+7) Quando sono terminati gli 1 e viene letto uno 0 significa che nel primo nastro 
+   sono presenti le prossime transizioni da copiare.
+
+8) Andiamo a leggere ciò che è presente sul terzo nastro, poichè la testina è posizionata
+   su ciò che bisogna scrivere sul secondo nastro e successivamente saltiamo lo 0 utilizzato
+   sempre come separatore.
+
+9) In q12 il carattere letto determinerà lo spostamento della testina del secondo nastro.
+
+10) Spostata la testina del secondo nastro, quella del terzo potrà spostarsi alla fine 
+    della sequenza dei caratteri.
+
+11) Da questo punto andando a ritroso si cancellano i caratteri inserendo un blank.
+
+12) Infine in q18, verifichiamo se siamo sul blank:
+    - Se ciò avviene la computazione termina.
+    - Altrimenti si torna al punto 1 e la testina del primo nastro è nella posizione
+      trascritta al punto 5 e 6.
+
+    
+   

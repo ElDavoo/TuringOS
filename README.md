@@ -23,6 +23,9 @@ Il Riassunto comprende tutti gli argomenti che il professore """spiega""". Quell
 Le macchine di Turing binarie, essendo molto semplici, ne ho fatte alcune ma non tutte, mi sono concentrato maggiormente su quelle degli esami impossibili. Studiatevi la complessità che è l'unica cosa di cui tiene conto nella relazione della macchina di turing. Nella relazione per il funzionamento della macchina potete anche scrivere troiate.
 Tony
 
+## Nicola
+
+Cartella di Nicola (roba disordinata)
 
 ## tips / how to
 
