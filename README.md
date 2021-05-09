@@ -6,13 +6,23 @@
 
 Tracce ed esercizi svolti. Il nome del file indica con quanti nastri è stata implementata la macchina.
 
-## non fatte
+## tracce
 
-Indovina... ?
+Varie tracce non fatte
 
 ## pezzi
 
 Pezzi da assemblare per realizzare una macchina completa, consulta il readme inside
+
+## Riassunto di Tony
+
+Il Riassunto comprende tutti gli argomenti che il professore """spiega""". Quelli evidenziati sono le domande che fa tipo sempre.
+
+## Basilari e Difficili (Tony)
+
+Le macchine di Turing binarie, essendo molto semplici, ne ho fatte alcune ma non tutte, mi sono concentrato maggiormente su quelle degli esami impossibili. Studiatevi la complessità che è l'unica cosa di cui tiene conto nella relazione della macchina di turing. Nella relazione per il funzionamento della macchina potete anche scrivere troiate.
+Tony
+
 
 ## tips / how to
 
@@ -36,8 +46,6 @@ Pezzi da assemblare per realizzare una macchina completa, consulta il readme ins
 
 Ricordatevi di salvare prima di provare a modificare una transizione.
 
-## Contributors
+## Contributors (not listed in github's contributors)
 
-xDonatello
-
-ripac99
+Tony
