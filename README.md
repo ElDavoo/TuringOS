@@ -25,7 +25,7 @@ Tony
 
 ## Nicola
 
-Cartella di Nicola (roba disordinata)
+Cartella di Nicola (roba disordinata), fatta in jflap 7.0
 
 ## tips / how to
 
