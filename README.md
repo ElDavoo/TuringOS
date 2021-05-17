@@ -2,6 +2,8 @@
 
 "Sometimes I lose myself, but I try to find it" G.P. 12/11/2020
 
+Se avete contributi da dare, contribuite!
+
 ## fatte
 
 Tracce ed esercizi svolti. Il nome del file indica con quanti nastri è stata implementata la macchina.
