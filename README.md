@@ -53,6 +53,6 @@ Ricordatevi di salvare prima di provare a modificare una transizione.
 
 ## Contributors (not listed in github's contributors)
 
-Tony @tonywrall
+[@tonywrall](https://github.com/tonywrall)
 
-Nicola @heruamin
+[@heruamin](https://github.com/heruamin)
