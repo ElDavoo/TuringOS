@@ -1,3 +1,5 @@
+##### APPELLI 2020-2021 #####
+
 ### PRIMO APPELLO (11 giugno 2020) ###
 Notazione binaria
 Funzione: f(A,B)=(A-B)+A
@@ -17,7 +19,6 @@ Funzione: f(A,B)=(A-B)+B
 Input: f(A,B)=
 Il cursore deve essere posizionato all'inizio del risultato
 
-
 ### QUARTO APPELLO (16 novembre 2020) ###
 Notazione decimale
 Input: S(A,B,C)=
@@ -34,4 +35,31 @@ Il cursore deve trovarsi sul simbolo =
 Notazione decimale
 Input: S(A,B,C,D)=
 Il risultato è 0 se |A-B|+C=D, 1 altrimenti
+Il cursore deve trovarsi sul simbolo =
+
+### SETTIMO APPELLO (6 aprile 2021) ###
+Notazione binaria
+Input: A+B
+Output: risultato
+Il cursore deve trovarsi sulla prima cifra del risultato
+
+### OTTAVO APPELLO [FUORICORSO] (5 maggio 2021) ###
+Notazione binaria, singolo nastro
+Input: A+B
+Output: risultato
+Il cursore deve trovarsi sulla prima cifra del risultato
+
+
+##### APPELLI 2021-2022 #####
+
+### PRIMO APPELLO (11 giugno 2021) ###
+Notazione binaria
+Input: M(A,B,C)=
+Determinare il più grande. Il risultato è 1 se è A, 2 se è B, 3 se è C.
+Il cursore deve trovarsi sul simbolo =
+
+### SECONDO APPELLO (23 giugno 2021) ###
+Notazione binaria, singolo nastro
+Input: S(A,B,C)=
+Il risultato è 1 se A+B=C, 2 altrimenti
 Il cursore deve trovarsi sul simbolo =

@@ -1,0 +1,4 @@
+In alcune macchine qui presenti potrebbero mancare delle transizioni sull'ultimo stato dell'addizione. Confrontare col pezzo (che è completato), e in tal caso aggiungere la parte mancante.
+
+!A-B! in realtà sarebbe |A-B| (valore assoluto), chiamata da Pani anche "sottrazione chiusa"
+
