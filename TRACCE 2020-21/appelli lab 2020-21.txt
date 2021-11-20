@@ -63,3 +63,21 @@ Notazione binaria, singolo nastro
 Input: S(A,B,C)=
 Il risultato è 1 se A+B=C, 2 altrimenti
 Il cursore deve trovarsi sul simbolo =
+
+### TERZO APPELLO (13 luglio 2021) ###
+Notazione binaria
+Input: M(A,B,C,D)=
+Il risultato è 1 se |A-B|+|A-C|=D, 2 altrimenti
+Il cursore deve trovarsi sul simbolo =
+
+### QUARTO APPELLO (8 settembre 2021) ###
+Notazione binaria
+Input: M(A,B,C)=
+Determinare il più piccolo. Il risultato è 1 se è A, 2 se è B, 3 se è C.
+Il cursore deve trovarsi sul simbolo =
+
+### QUINTO APPELLO (15 novembre 2021) ###
+Notazione binaria
+Input: M(A,B,C,D)=
+Il risultato è 1 se |A-|B-C||=D, 2 altrimenti
+Il cursore deve trovarsi sul simbolo =
