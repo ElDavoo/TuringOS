@@ -2,22 +2,22 @@
 
 ### PRIMO APPELLO (11 giugno 2020) ###
 Notazione binaria
-Funzione: f(A,B)=(A-B)+A
-A-B = {A-B se A>=B, 0 altrimenti}
 Input: f(A,B)=
+Funzione: (A-B)+A
+(A-B) = {A-B se A>=B, 0 altrimenti}
 
 ### SECONDO APPELLO (25 giugno 2020) ###
 Notazione decimale
-Funzione: f(A,B)
-f(A-B) = {A-B se A>=B, 0 altrimenti}
 Input: f(A,B)=
+Funzione: (A-B)
+(A-B) = {A-B se A>=B, 0 altrimenti}
 
 ### TERZO APPELLO (14 luglio 2020) ###
 Notazione binaria
-Funzione: f(A,B)=(A-B)+B
-(A-B) = {A-B se A>=B, 0 altrimenti}
 Input: f(A,B)=
-Il cursore deve essere posizionato all'inizio del risultato
+Funzione: (A-B)+B
+(A-B) = {A-B se A>=B, 0 altrimenti}
+Il cursore deve trovarsi sulla prima cifra del risultato
 
 ### QUARTO APPELLO (16 novembre 2020) ###
 Notazione decimale
@@ -76,7 +76,15 @@ Input: M(A,B,C)=
 Determinare il più piccolo. Il risultato è 1 se è A, 2 se è B, 3 se è C.
 Il cursore deve trovarsi sul simbolo =
 
-### QUINTO APPELLO (15 novembre 2021) ###
+### QUINTO APPELLO (21 settembre 2021) ###
+Notazione binaria
+Input: f(A,B,C)=
+Funzione: (A-B)=C
+(A-B) = {A-B se A>=B, 0 altrimenti}
+Il risultato è 1 se (A-B)=C, 0 altrimenti
+Il cursore deve trovarsi sulla prima cifra del risultato
+
+### SESTO APPELLO (15 novembre 2021) ###
 Notazione binaria
 Input: M(A,B,C,D)=
 Il risultato è 1 se |A-|B-C||=D, 2 altrimenti
