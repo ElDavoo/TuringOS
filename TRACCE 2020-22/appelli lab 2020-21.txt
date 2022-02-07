@@ -89,3 +89,9 @@ Notazione binaria
 Input: M(A,B,C,D)=
 Il risultato è 1 se |A-|B-C||=D, 2 altrimenti
 Il cursore deve trovarsi sul simbolo =
+
+### SETTIMO APPELLO (7 febbraio 2022) ###
+Notazione binaria con segno (+/-)
+Input: M(A,B,C)=
+Il risultato è A se ±A±B=C, B altrimenti
+Il cursore deve trovarsi sul simbolo =
