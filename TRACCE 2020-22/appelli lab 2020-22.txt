@@ -95,3 +95,10 @@ Notazione binaria con segno (+/-)
 Input: M(A,B,C)=
 Il risultato è A se ±A±B=C, B altrimenti
 Il cursore deve trovarsi sul simbolo =
+
+### OTTAVO APPELLO (30 marzo 2022) ###
+Notazione binaria
+Input: M(A,B,C)=
+Determinare il più grande. Il risultato è "a" se è A, "b" se è B, "c" se è C.
+Il cursore deve trovarsi sul simbolo =
+Note: Traccia identica a quella dell'11 giugno 2021, cambia solo la notazione del risultato.
