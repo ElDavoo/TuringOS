@@ -102,3 +102,12 @@ Input: M(A,B,C)=
 Determinare il più grande. Il risultato è "a" se è A, "b" se è B, "c" se è C.
 Il cursore deve trovarsi sul simbolo =
 Note: Traccia identica a quella dell'11 giugno 2021, cambia solo la notazione del risultato.
+
+##### APPELLI 2022-2023 #####
+
+### PRIMO APPELLO (13 giugno 2021) ###
+Notazione binaria
+Input: F(A,B,C,D)=
+Il risultato è 1 se |A-|B-C||=D, 0 altrimenti
+Il cursore deve trovarsi sul simbolo =
+Note: Traccia identica a quella del 15 novembre 2021, cambia solo la notazione del secondo risultato.
