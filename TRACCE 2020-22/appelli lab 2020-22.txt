@@ -105,9 +105,23 @@ Note: Traccia identica a quella dell'11 giugno 2021, cambia solo la notazione de
 
 ##### APPELLI 2022-2023 #####
 
-### PRIMO APPELLO (13 giugno 2021) ###
+### PRIMO APPELLO (13 giugno 2022) ###
 Notazione binaria
 Input: F(A,B,C,D)=
 Il risultato è 1 se |A-|B-C||=D, 0 altrimenti
 Il cursore deve trovarsi sul simbolo =
 Note: Traccia identica a quella del 15 novembre 2021, cambia solo la notazione del secondo risultato.
+
+### SECONDO APPELLO (29 giugno 2022) ###
+Notazione binaria con segno (+/-)
+Input: F(A,B)=
+Il risultato è AB se A<B, BA se B<A, A se B=A
+Il cursore deve trovarsi sul simbolo =
+Note: per AB si intende letteralmente la stringa "AB", non il prodottto A*B. Idem per BA e A.
+
+### TERZO APPELLO (14 luglio 2022) ###
+Notazione binaria
+Input: F(A,B)=
+Il risultato è |A-B|
+Il cursore deve trovarsi sull'ultimo simbolo del risultato
+Note: La MdT da progettare deve avere al massimo 2 nastri.
