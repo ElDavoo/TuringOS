@@ -58,3 +58,5 @@ Ricordatevi di salvare prima di provare a modificare una transizione.
 [@heruamin](https://github.com/heruamin)
 
 [@vodibe](https://github.com/vodibe)
+
+[@andreascalzo99](https://github.com/andreascalzo99)
