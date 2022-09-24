@@ -125,3 +125,17 @@ Input: F(A,B)=
 Il risultato è |A-B|
 Il cursore deve trovarsi sull'ultimo simbolo del risultato
 Note: La MdT da progettare deve avere al massimo 2 nastri.
+
+### QUARTO APPELLO (1 settembre 2022) ###
+Notazione binaria con segno (+/-)
+Input: M(A,B,C)=
+Il risultato è a se A+B=C, b altrimenti
+Il cursore deve trovarsi sul simbolo =
+Note: la mdt deve avere due nastri
+
+### QUINTO APPELLO (21 settembre 2022) ###
+Notazione binaria
+Input: M(A,B,C,D)=
+Il risultato è a se A+B+C=D, b altrimenti
+Il cursore deve trovarsi sul simbolo =
+Note: la mdt deve avere due nastri
