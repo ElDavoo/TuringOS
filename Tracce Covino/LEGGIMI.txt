@@ -1,0 +1,4 @@
+Traccia 1, Traccia 2 e Traccia 3 sono le tre tracce che escono a rotazione nell'esame teorico.
+
+Per maggiori info:
+http://www.di.uniba.it/~covino/teaching/calcom_21/esercizi%20mdt.pdf
